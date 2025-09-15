@@ -25,9 +25,9 @@ This guide explains how to set up your Python environment and run evaluations fo
 
 ```bash
 
-git clone https://github.com/anshikagarg12/Task3_Fossee
+git clone https://github.com/Divyakiran-create/Student_Competence
 
-cd Task3_Fossee
+cd Student_Competence
 
 ```
 
