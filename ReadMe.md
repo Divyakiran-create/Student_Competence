@@ -1,18 +1,7 @@
 # Research Plan
 
 **Model discovery & shortlisting.**  
-I will be using and comparing 4 LLM's —  
-
-**ChatGPT (OpenAI)** <img src="https://raw.githubusercontent.com/microsoft/ML-For-Beginners/main/3-Web-App/04-ai-openai/images/openai-logo.png" width="26" />,  
-**Gemini (Google DeepMind)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Gemini_logo.png/512px-Google_Gemini_logo.png" width="26" />,  
-**Claude (Anthropic)** <img src="https://avatars.githubusercontent.com/u/110213622?s=200&v=4" width="26" />,  
-**Perplexity AI** <img src="https://raw.githubusercontent.com/perplexity-ai/.github/main/profile/perplexity-logo.png" width="26" />.  
-
-I am selecting these models due to their established capability to process natural language, producing context-based explanations, and responding to Socratic-style prompts. The shortlist was constructed based on the following:  
-(a) overall-purpose reasoning power both in code and natural language,  
-(b) accessibility for research/education purposes via APIs or web interfaces,  
-(c) support for multi-turn conversation and large contexts (which is useful for complete code files + instructions), and  
-(d) evidence
+I will be using and comparing 4 LLM's — **ChatGPT (OpenAI)** <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?logo=openai&logoColor=white&style=flat-square" width="80"/>, **Gemini (Google DeepMind)** <img src="https://img.shields.io/badge/Gemini-Google-4285F4?logo=google&logoColor=white&style=flat-square" width="80"/>, **Claude (Anthropic)** <img src="https://img.shields.io/badge/Claude-Anthropic-000000?style=flat-square" width="80"/>, and **Perplexity AI** <img src="https://img.shields.io/badge/Perplexity-AI-3333FF?logo=perplexity&logoColor=white&style=flat-square" width="80"/>. I am selecting these models due to their established capability to process natural language, producing context-based explanations, and responding to Socratic-style prompts. The shortlist was constructed based on the following: (a) overall-purpose reasoning power both in code and natural language, (b) accessibility for research/education purposes via APIs or web interfaces, (c) support for multi-turn conversation and large contexts (which is useful for complete code files + instructions), and (d) evidence
 
 ## Models tested and why
 I tested **ChatGPT (OpenAI)**, **Gemini (Google DeepMind)**, **Claude (Anthropic)**, and **Perplexity AI**. These are top-edge frontier LLMs available through API or web interfaces, selected since they already show excellent reasoning and conversational capabilities. They embody various design approaches:
