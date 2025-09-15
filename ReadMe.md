@@ -1,7 +1,18 @@
 # Research Plan
 
 **Model discovery & shortlisting.**  
-I will be using and comparing 4 LLM's — **ChatGPT (OpenAI)** <img src="https://img.icons8.com/color/48/000000/openai.png" width="24" />, **Gemini (Google DeepMind)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Google_Gemini_logo.svg" width="24" />, **Claude (Anthropic)** <img src="https://avatars.githubusercontent.com/u/110213622?s=200&v=4" width="24" />, and **Perplexity AI** <img src="https://seeklogo.com/images/P/perplexity-ai-logo-DA4E25ABF8-seeklogo.com.png" width="24" />. I am selecting these models due to their established capability to process natural language, producing context-based explanations, and responding to Socratic-style prompts. The shortlist was constructed based on the following: (a) overall-purpose reasoning power both in code and natural language, (b) accessibility for research/education purposes via APIs or web interfaces, (c) support for multi-turn conversation and large contexts (which is useful for complete code files + instructions), and (d) evidence
+I will be using and comparing 4 LLM's —  
+
+**ChatGPT (OpenAI)** <img src="https://raw.githubusercontent.com/microsoft/ML-For-Beginners/main/3-Web-App/04-ai-openai/images/openai-logo.png" width="26" />,  
+**Gemini (Google DeepMind)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Gemini_logo.png/512px-Google_Gemini_logo.png" width="26" />,  
+**Claude (Anthropic)** <img src="https://avatars.githubusercontent.com/u/110213622?s=200&v=4" width="26" />,  
+**Perplexity AI** <img src="https://raw.githubusercontent.com/perplexity-ai/.github/main/profile/perplexity-logo.png" width="26" />.  
+
+I am selecting these models due to their established capability to process natural language, producing context-based explanations, and responding to Socratic-style prompts. The shortlist was constructed based on the following:  
+(a) overall-purpose reasoning power both in code and natural language,  
+(b) accessibility for research/education purposes via APIs or web interfaces,  
+(c) support for multi-turn conversation and large contexts (which is useful for complete code files + instructions), and  
+(d) evidence
 
 ## Models tested and why
 I tested **ChatGPT (OpenAI)**, **Gemini (Google DeepMind)**, **Claude (Anthropic)**, and **Perplexity AI**. These are top-edge frontier LLMs available through API or web interfaces, selected since they already show excellent reasoning and conversational capabilities. They embody various design approaches:
