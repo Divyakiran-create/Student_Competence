@@ -25,9 +25,9 @@ This guide explains how to set up your Python environment and run evaluations fo
 
 ```bash
 
-git clone https://github.com/Divyakiran-create/Student_Competence
+git clone https://github.com/anshikagarg12/Task3_Fossee
 
-cd Student_Competence
+cd Task3_Fossee
 
 ```
 
@@ -70,13 +70,13 @@ Create a .env file in the root folder:
 
 /# .env
 
-OPENAI/_API/_KEY=your/_openai/_api/_key
+OPENAI_API_KEY=your_openai_api_key
 
-GOOGLE/_API/_KEY=your/_gemini/_api/_key
+GOOGLE_API_KEY=your_gemini_api_key
 
-ANTHROPIC/_API/_KEY=your/_claude/_api/_key
+ANTHROPIC_API_KEY=your_claude_api_key
 
-PERPLEXITY/_API/_KEY=your/_perplexity/_api/_key
+PERPLEXITY_API_KEY=your_perplexity_api_key
 
 ```
 
@@ -94,15 +94,7 @@ Run each model’s evaluation script to generate prompts and feedback on student
 
 
 ```bash
-python src/chatgpt/_eval.py
-
-python src/gemini/_eval.py
-
-python src/claude/_eval.py
-
-python src/perplexity/_eval.py
-
-python src/starcoder/_eval.py
+python src/evaluate.py
 
 
 ```
@@ -130,15 +122,15 @@ jupyter notebook
 
 
 
-01/_data/_prep.ipynb → Load and inspect student submissions
+data_prep.ipynb → Load and inspect student submissions
 
 
 
-02/_model/_queries.ipynb → Query all 5 models
+model_queries.ipynb → Query all 5 models
 
 
 
-03/_analysis.ipynb → Compare outputs and visualize results
+analysis.ipynb → Compare outputs and visualize results
 
 
 
